@@ -1,4 +1,4 @@
-<img src= "https://i.postimg.cc/tgY9R5KB/picture-001.png"/>
+<img src= "https://i.postimg.cc/wvwdJ4CK/banner-001.png"/>
 
 <!--
 **ischar/ischar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
