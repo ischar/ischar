@@ -15,7 +15,7 @@ Striving to do my best today and improve tomorrow.
 | ----------- | ------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------- |
 | Chartly     | Web-based stock portfolio                                                 | PHP-Laravel, HTML, Tailwind CSS, JavaScript, MySQL | [link](https://github.com/ischar/php-chartly) |
 | In Drama    | Web-based community for travel itineraries around drama filming locations | React.js, Tailwind CSS JPA, MySQL                  | [link](https://github.com/ischar/in-drama)    |
-| Honjarang   | Web-based video call community                                            | OpenVidu, Jpa, Vue.js MySQL                        | [link](https://github.com/ischar/honjarang)   |
+| Honjarang   | Web-based video call community                                            | OpenVidu, Jpa, React.js, MySQL                        | [link](https://github.com/ischar/honjarang)   |
 | Happy House | Web-based Real Estate Management                                          | Spring Boot, Vue.js, Bootstrap, MySQL              | [link](https://github.com/ischar/happy-house) |
 | Pill Me     | IoT-Based Medication Management                                           | Django, HTML, CSS, JavsScript, MySQL               | [link](https://github.com/ischar/pill-me)     |
 
